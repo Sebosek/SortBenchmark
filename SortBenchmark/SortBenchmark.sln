@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortBenchmark", "SortBenchmark\SortBenchmark.csproj", "{02DE27A8-9291-4869-8D7B-7D4E425F7399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortBenchmark.Tests", "SortBenchmark.Tests\SortBenchmark.Tests.csproj", "{1B831A3F-F278-4FE1-8D99-36130FB3637B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DE27A8-9291-4869-8D7B-7D4E425F7399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DE27A8-9291-4869-8D7B-7D4E425F7399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DE27A8-9291-4869-8D7B-7D4E425F7399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DE27A8-9291-4869-8D7B-7D4E425F7399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B831A3F-F278-4FE1-8D99-36130FB3637B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B831A3F-F278-4FE1-8D99-36130FB3637B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B831A3F-F278-4FE1-8D99-36130FB3637B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B831A3F-F278-4FE1-8D99-36130FB3637B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
